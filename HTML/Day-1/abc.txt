@@ -1,0 +1,42 @@
+Hypertext markup language
+
+Hypertext == sym + text
+markup ==> Syntax
+
+API ==> Application Programming Interface
+
+<NameOfMarkup> ==> Open Tag
+</NameOfMarkup> ==> CLose Tag
+
+<NameOfMarkup /> ==> Self Closing
+
+<NameOfMarkup> data </NameOfMarkup> ==> HTML element
+<NameOfMarkup data />
+
+
+Basic Elements
+    html ==> root element
+    hade ==> information
+    body ==> display data
+
+Element Type
+    div ==> block level ==> layout & display data ==> 100% area
+    span ==> inline line ==> text formatting ==> as the content
+
+
+Typography Elements
+        heading ==> h1 , h2 , h3 , h4 , h5 ,h6
+        para => p
+        bold => b
+        italic => i
+        underline => u
+Image Element
+Navigation
+List 
+Table 
+Complex tables
+forms
+Layout
+Maps
+SVG
+SC
